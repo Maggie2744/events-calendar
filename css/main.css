@@ -19,3 +19,27 @@ thead, tbody {
 table {
   border-color: #ccc;
 }
+
+.event {}
+
+.event-gray {
+  background-color: #f2f2f2;
+  border: 1px solid #666;
+  border-radius: 5px;
+}
+
+.event-red {
+  background-color:
+  border: 1px solid #
+  border-radius: 5px;
+}
+
+.event-green {
+  background-color:
+  border-color:
+}
+
+.event-blue {
+  background-color:
+  border-color:
+}
