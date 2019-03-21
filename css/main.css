@@ -5,19 +5,20 @@ html {
 td {
   text-align: right;
   height: 8.5em;
-  border-color: #ccc;
+  border: 1px solid #ccc;
 }
 
 th {
-  border-color: #ccc;
+  border: 1px solid #ccc;
+  text-align: right;
 }
 
 thead, tbody {
-  border-color: #ccc;
+  border: 1px solid #ccc;
 }
 
 table {
-  border-color: #ccc;
+  border: 1px solid #ccc;
 }
 
 .event-gray {
