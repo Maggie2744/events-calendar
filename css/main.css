@@ -4,5 +4,18 @@ html {
 
 td {
   text-align: right;
-  height: 9em;
+  height: 8.5em;
+  border-color: #ccc;
+}
+
+th {
+  border-color: #ccc;
+}
+
+thead, tbody {
+  border-color: #ccc;
+}
+
+table {
+  border-color: #ccc;
 }
