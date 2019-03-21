@@ -1,16 +1,14 @@
 html {
-  font-family: "Merriweather", serif;
+  font-family: Merriweather, serif;
 }
 
 td {
-  text-align: right;
   height: 8.5em;
   border: 1px solid #ccc;
 }
 
 th {
   border: 1px solid #ccc;
-  text-align: right;
 }
 
 thead, tbody {
